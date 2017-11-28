@@ -89,6 +89,7 @@ public class WebElementMethods
 		//getLocationMethod();
 		//getTagName();
 		getText();
+		driver.
 		
 		
 	}
