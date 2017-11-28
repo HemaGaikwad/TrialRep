@@ -44,5 +44,6 @@ public class CustomList
 		WebElement search=driver.findElement(By.id("BE_flight_flsearch_btn"));
 		search.click();
 		driver.close();
+		driver.quit();
 	}
 }
